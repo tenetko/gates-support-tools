@@ -133,3 +133,6 @@ dmypy.json
 *.xml
 *.csv
 *.txt
+
+# PyCharm
+.idea
